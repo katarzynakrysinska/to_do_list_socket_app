@@ -1,0 +1,15 @@
+{
+  "name": "to_do_list_socket_app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/katarzynakrysinska/to_do_list_socket_app.git",
+  "author": "Kasia Krysińska <katarzyna.krysinska@onet.pl>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15"
+  },
+  "scripts": {
+    "start": "nodemon server.js"
+  }
+}
